@@ -1,0 +1,20 @@
+.support{
+    max-width: 1088px;
+    height: 1px;
+    margin-top: 70px;
+    margin-bottom: 38px;
+    background: #EEF2F3;
+
+
+    &__title{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    
+    }
+
+    &__content{
+    margin-left: 29px;
+    }
+}

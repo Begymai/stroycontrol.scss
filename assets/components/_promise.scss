@@ -1,0 +1,53 @@
+.promise {
+
+    margin-top: 144px;
+
+  &__title {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #212b31;
+    max-width: 781px;
+    margin: 0 auto;
+  }
+
+  &__suptitle {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    color: #212b31;
+    max-width: 489px;
+  }
+
+  &__description {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #72787d;
+    max-width: 542px;
+  }
+
+  &__link {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 20px;
+    color: #212b31;
+    position: relative;
+  }
+
+  &__sector {
+    display: flex;
+    max-width: 1006px;
+    margin: 0 auto;
+    margin-top: 168px;
+  }
+
+  &__info {
+    margin: 0 auto;
+  }
+
+}

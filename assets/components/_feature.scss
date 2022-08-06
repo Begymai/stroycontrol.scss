@@ -1,0 +1,30 @@
+.feature {
+    margin-top: 148px;
+    &__content {
+        display: flex;
+        justify-content: space-between;
+        max-width: 1056px;
+        margin: 0 auto;
+    }
+  &__box {
+    max-width: 325px;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  &__title {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 18px;
+    color: #212b31;
+    text-align: center;
+  }
+
+  &__descriptiion {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787d;
+    text-align: center;
+  }
+}
